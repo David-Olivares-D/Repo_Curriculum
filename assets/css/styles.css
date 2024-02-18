@@ -1,13 +1,13 @@
 * {
  margin: 0;
- padding: 0;
+ padding: 5;
  box-sizing: border-box;
  color: black;
  font-family: "Raleway", sans-serif;
 }
 
 body {
- background-image: linear-gradient(#ebe8e8, #ebe8e8);
+ background-color: rgb(235, 179, 179);
  height: 122vh;
  font-weight: bold;
  letter-spacing: 5px;
